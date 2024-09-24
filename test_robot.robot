@@ -1,5 +1,7 @@
 *** Settings ***
 Library      RequestsLibrary
+
+*** Variables ***
 ${BASE_URL}  http://192.168.50.62:5001
 
 *** Test Cases ***
